@@ -6,6 +6,8 @@ A track of my progress towards #100DaysoCode.🌻👩‍💻
 2. Find floor of a number in an array
 3. [Find smallest letter greater than target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 4. [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+5. [Guess number higher or lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
+6. [2Sum input array](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
 
 - ### Cyclic Sort
 1. [Find all Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
