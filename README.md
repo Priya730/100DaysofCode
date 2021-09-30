@@ -16,4 +16,9 @@ A track of my progress towards #100DaysoCode.🌻👩‍💻
 4. [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 
 - ### Recursion
-1. [Reverse String](https://leetcode.com/problems/reverse-string/submissions)
+1. [Reverse String](https://leetcode.com/problems/reverse-string/)
+2. [Reverse LinkedList](https://leetcode.com/problems/reverse-linked-list/)
+
+
+- ### LinkedList
+1. [Reverse LinkedList](https://leetcode.com/problems/reverse-linked-list/)
