@@ -13,6 +13,7 @@ A track of my progress towards #100DaysoCode.🌻👩‍💻
 1. [Find all Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 2. [Missing number](https://leetcode.com/problems/missing-number/)
 3. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+4. [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 
 - ### Recursion
 1. [Reverse String](https://leetcode.com/problems/reverse-string/submissions)
