@@ -22,3 +22,7 @@ A track of my progress towards #100DaysoCode.🌻👩‍💻
 
 - ### LinkedList
 1. [Reverse LinkedList](https://leetcode.com/problems/reverse-linked-list/)
+
+
+- ### Queue
+1. [Implement Stack using Queue](https://leetcode.com/problems/implement-stack-using-queues/)
