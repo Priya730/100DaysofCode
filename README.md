@@ -14,6 +14,7 @@ A track of my progress towards #100DaysoCode.🌻👩‍💻
 2. [Missing number](https://leetcode.com/problems/missing-number/)
 3. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 4. [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+5. [Shuffle String](https://leetcode.com/problems/shuffle-string/)
 
 - ### Recursion
 1. [Reverse String](https://leetcode.com/problems/reverse-string/)
@@ -27,3 +28,6 @@ A track of my progress towards #100DaysoCode.🌻👩‍💻
 - ### Queue
 1. [Implement Stack using Queue](https://leetcode.com/problems/implement-stack-using-queues/)
 2. [Reverse Queue](https://github.com/Priya730/100DaysofCode/blob/main/Queue/reverseQueue.java)
+
+- ### Strings
+1. [Shuffle String](https://leetcode.com/problems/shuffle-string/)
