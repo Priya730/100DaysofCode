@@ -26,3 +26,4 @@ A track of my progress towards #100DaysoCode.🌻👩‍💻
 
 - ### Queue
 1. [Implement Stack using Queue](https://leetcode.com/problems/implement-stack-using-queues/)
+2. [Reverse Queue](https://github.com/Priya730/100DaysofCode/blob/main/Queue/reverseQueue.java)
