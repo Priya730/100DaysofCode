@@ -35,3 +35,6 @@ A track of my progress towards #100DaysoCode.🌻👩‍💻
 - ### Binary Tree
 1. [Maximum Binary Tree Recursion](https://leetcode.com/problems/maximum-binary-tree/)
 2. [Inorder Traversal Recursion](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+3. [Max Depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+4. [Same Tree](https://leetcode.com/problems/same-tree/)
+5. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
