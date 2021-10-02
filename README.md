@@ -31,3 +31,6 @@ A track of my progress towards #100DaysoCode.🌻👩‍💻
 
 - ### Strings
 1. [Shuffle String](https://leetcode.com/problems/shuffle-string/)
+
+- ### Binary Tree
+1. [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)
