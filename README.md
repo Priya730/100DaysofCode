@@ -32,6 +32,7 @@ A track of my progress towards #100DaysoCode.🌻👩‍💻
 - ### Strings
 1. [Shuffle String](https://leetcode.com/problems/shuffle-string/)
 2. [Longest Substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+3. [First Repeating Character]()
 
 - ### Binary Tree
 1. [Maximum Binary Tree Recursion](https://leetcode.com/problems/maximum-binary-tree/)
