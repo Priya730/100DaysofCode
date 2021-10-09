@@ -51,3 +51,4 @@ A track of my progress towards #100DaysoCode.🌻👩‍💻
 4. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 5. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 6. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
+7. [Best Time to Buy and Sell Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
