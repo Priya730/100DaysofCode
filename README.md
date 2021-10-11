@@ -41,6 +41,7 @@ A track of my progress towards #100DaysoCode.🌻👩‍💻
 3. [Max Depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 4. [Same Tree](https://leetcode.com/problems/same-tree/)
 5. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+6. [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
 
 - ### Bit Manipulation
 1. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
