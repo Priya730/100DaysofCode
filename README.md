@@ -48,6 +48,9 @@ A track of my progress towards #100DaysoCode.🌻👩‍💻
 - ### Bit Manipulation
 1. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 
+- ### Math
+1. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+
 - ### Arrays
 1. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 2. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
