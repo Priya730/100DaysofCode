@@ -47,6 +47,7 @@ A track of my progress towards #100DaysoCode.🌻👩‍💻
 6. [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
 7. [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 8. [Path Sum](https://leetcode.com/problems/path-sum/submissions/)
+9. [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)
 
 - ### Bit Manipulation
 1. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
