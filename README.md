@@ -62,3 +62,5 @@ A track of my progress towards #100DaysoCode.🌻👩‍💻
 6. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 7. [Best Time to Buy and Sell Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 8. [Container with most water](https://leetcode.com/problems/container-with-most-water/)
+9. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+10. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
