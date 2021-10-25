@@ -50,6 +50,7 @@ A track of my progress towards #100DaysoCode.🌻👩‍💻
 9. [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)
 10. [Largest Value in each tree row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
 11. [Find bottom left tree value](https://leetcode.com/problems/find-bottom-left-tree-value/)
+12. [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)
 
 
 - ### Bit Manipulation
