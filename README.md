@@ -26,6 +26,7 @@ A track of my progress towards #100DaysoCode.🌻👩‍💻
 2. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 3. [Palindrome LinkedList](https://leetcode.com/problems/palindrome-linked-list/)
 4. [Odd Even LinkedList](https://leetcode.com/problems/odd-even-linked-list/)
+5. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 
 
 - ### Queue
