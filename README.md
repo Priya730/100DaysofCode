@@ -60,6 +60,7 @@ A track of my progress towards #100DaysoCode.🌻👩‍💻
 
 - ### Math
 1. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+2. [Lemonade change](https://leetcode.com/problems/lemonade-change/)
 
 - ### Arrays
 1. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
