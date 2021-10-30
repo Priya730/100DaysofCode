@@ -32,6 +32,7 @@ A track of my progress towards #100DaysoCode.🌻👩‍💻
 - ### Queue
 1. [Implement Stack using Queue](https://leetcode.com/problems/implement-stack-using-queues/)
 2. [Reverse Queue](https://github.com/Priya730/100DaysofCode/blob/main/Queue/reverseQueue.java)
+3. [Number of recent calls](https://leetcode.com/problems/number-of-recent-calls/)
 
 - ### Strings
 1. [Shuffle String](https://leetcode.com/problems/shuffle-string/)
@@ -72,3 +73,4 @@ A track of my progress towards #100DaysoCode.🌻👩‍💻
 9. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 10. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 11. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
+12. [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/)
