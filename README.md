@@ -27,6 +27,7 @@ A track of my progress towards #100DaysoCode.🌻👩‍💻
 3. [Palindrome LinkedList](https://leetcode.com/problems/palindrome-linked-list/)
 4. [Odd Even LinkedList](https://leetcode.com/problems/odd-even-linked-list/)
 5. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+6. [Delete node in Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 
 
 - ### Queue
