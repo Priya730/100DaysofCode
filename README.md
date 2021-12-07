@@ -19,6 +19,7 @@ A track of my progress towards #100DaysoCode.🌻👩‍💻
 - ### Recursion
 1. [Reverse String](https://leetcode.com/problems/reverse-string/)
 2. [Reverse LinkedList](https://leetcode.com/problems/reverse-linked-list/)
+3. [Sum triangle from array](https://www.geeksforgeeks.org/sum-triangle-from-array/)
 
 
 - ### LinkedList
